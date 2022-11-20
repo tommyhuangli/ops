@@ -1,0 +1,11 @@
+[
+    {
+      "Description": "Win10",
+      "Format": "vmdk",
+      "UserBucket": {
+          "S3Bucket": "xcamp-vm-import-west",
+          "S3Key": "Win10-disk001.vmdk"
+      }
+    }
+  ]
+  
